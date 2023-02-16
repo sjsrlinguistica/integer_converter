@@ -24,6 +24,6 @@ else:
 #print output as string
 product=str(num_int)
 if base == 10:
-    print("Your original value in base 10 is " + product + "\nWait... why did you run this program?")
+    print("Your original value in base 10 is " + product + "\nWait... why did you run this script?")
 else: 
     print("Your original value in base " + str(base) + " is " + product)
